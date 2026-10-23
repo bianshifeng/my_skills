@@ -1,0 +1,4 @@
+interface:
+  display_name: "头像转九头身角色设定图"
+  short_description: "上传一张头像，直接生成保持人物一致的九头身写实多视角设定图"
+  default_prompt: "使用 $portrait-to-character-sheet，按默认设定将我上传的头像直接生成16:9写实九头身角色多视角设定图。"
